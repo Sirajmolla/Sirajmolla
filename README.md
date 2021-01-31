@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sirajmolla8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sirajmolla8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siraj-molla-95538915b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/siraj-molla-95538915b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siraj-molla-95538915b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/siraj-molla-95538915b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11456301/siraj-molla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11456301/siraj-molla" height="30" width="40" /></a>
 <a href="https://fb.com/sirajtechsolutions" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sirajtechsolutions" height="30" width="40" /></a>
 <a href="https://instagram.com/molla.siraj.7890/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/molla.siraj.7890/" height="30" width="40" /></a>
