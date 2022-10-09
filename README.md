@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">A passionate Progammer from India</h3>
+<h2 align="center">A Passionate Progammer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirajmolla&label=Profile%20views&color=0e75b6&style=flat" alt="sirajmolla" /> </p>
 
