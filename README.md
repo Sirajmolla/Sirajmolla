@@ -47,5 +47,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajmolla&" alt="sirajmolla" /></p>
 
-<p><center>Show some ❤️ by starring some of the repositories!</center></p>
+<h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
 
