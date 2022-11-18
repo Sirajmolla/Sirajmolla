@@ -46,7 +46,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajmolla&" alt="sirajmolla" /></p>
 
-<p><img align="center" src="https://holopin.io/@mollasiraj" alt="sirajmolla" /></p>
+[![@mollasiraj's Holopin board](https://holopin.me/mollasiraj)](https://holopin.io/@mollasiraj)
 
 <h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
 
