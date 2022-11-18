@@ -45,7 +45,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirajmolla&show_icons=true&locale=en" alt="sirajmolla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajmolla&" alt="sirajmolla" /></p>
-[![@mollasiraj's Holopin board](https://holopin.me/mollasiraj)](https://holopin.io/@mollasiraj)
+
+<p><img align="center" src="https://holopin.io/@mollasiraj" alt="sirajmolla" /></p>
 
 <h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
 
