@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sirajmolla8" target="blank"><img src="https://img.shields.io/twitter/follow/sirajmolla8?logo=twitter&style=for-the-badge" alt="sirajmolla8" /></a> </p>
 
-- 🔭 I’m currently working on **Tata Consultancy Service as a System Engineer**
+- 🔭 I’m currently working in **Deloitte USI as a Associate Solution Advisor**
 
 - 🌱 I’m currently learning **AI AND MACHINE LEARNING**
 
